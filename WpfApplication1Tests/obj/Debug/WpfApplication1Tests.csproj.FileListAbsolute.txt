@@ -1,0 +1,11 @@
+d:\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1Tests\bin\Debug\WpfApplication1Tests.dll
+d:\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1Tests\bin\Debug\WpfApplication1Tests.pdb
+d:\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1Tests\bin\Debug\WpfApplication1.exe
+d:\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1Tests\bin\Debug\nunit.framework.dll
+d:\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1Tests\bin\Debug\WpfApplication1.pdb
+d:\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1Tests\bin\Debug\nunit.framework.xml
+d:\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+d:\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1Tests\obj\Debug\WpfApplication1Tests.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1Tests\obj\Debug\WpfApplication1Tests.dll
+d:\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1Tests\obj\Debug\WpfApplication1Tests.pdb

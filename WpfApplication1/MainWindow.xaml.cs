@@ -24,8 +24,8 @@ namespace WpfApplication1
         {
             InitializeComponent();
 
+            //private BL.UnitOfWork unitOfWork = new BL.UnitOfWork();
 
-
-        }
+    }
     }
 }
